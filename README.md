@@ -48,19 +48,19 @@ TJ OConnor and Doug Reeves. Bluetooth network-based misuse detection. In Annual 
 
 ## Tech Reports
  
-TJ OConnor. The Hacker Always Gets Through. In SANS Information Security Reading Room, April 2014. SANS. [[pdf]](https://sansorg.egnyte.com/dl/lx3F2GBmRj)
+TJ OConnor. The Hacker Always Gets Through. In SANS Information Security Reading Room, April 2014. SANS. [[pdf]](pdf/sans14oconnor-H.pdf)
  
-TJ OConnor. The Jester Dynamic: A Lesson in Asymmetric Unmanaged Cyber Warfare. In SANS Information Security Reading Room, December 2011. SANS. [[pdf]](https://sansorg.egnyte.com/dl/TpQ7hTWnN4)
+TJ OConnor. The Jester Dynamic: A Lesson in Asymmetric Unmanaged Cyber Warfare. In SANS Information Security Reading Room, December 2011. SANS. [[pdf]](pdf/sans11oconnor-J.pdf)
  
 TJ OConnor, Russ McRee, and Beth Binde. Assessing Outbound Traffic to Uncover Advanced Persistent Threat. In SANS Information Security Reading Room, May 2011. SANS. 
  
-TJ OConnor. Animal Farm: Protection from Client-Side Attacks by Rendering Content with Python and Squid. In SANS Information Security Reading Room, February 2011. SANS. [[pdf]](https://sansorg.egnyte.com/dl/CuT4xuRBTg)
+TJ OConnor. Animal Farm: Protection from Client-Side Attacks by Rendering Content with Python and Squid. In SANS Information Security Reading Room, February 2011. SANS. [[pdf]](pdf/sans11oconnor-A.pdf)
  
-TJ OConnor. About Face: Defending Your Organization Against Penetration Testing Teams. In SANS Information Security Reading Room, December 2010. SANS. [[pdf]](https://sansorg.egnyte.com/dl/USKL3Gfd5j)
+TJ OConnor. About Face: Defending Your Organization Against Penetration Testing Teams. In SANS Information Security Reading Room, December 2010. SANS. [[pdf]](sans10oconnor-A.pdf)
  
-TJ OConnor. Detecting and Responding to Data Link Layer Attacks. In SANS Information Security Reading Room, October 2010. SANS. [[pdf]](https://sansorg.egnyte.com/dl/NAkIRD92eT)
+TJ OConnor. Detecting and Responding to Data Link Layer Attacks. In SANS Information Security Reading Room, October 2010. SANS. [[pdf]](pdf/sans10oconnor-D.pdf)
  
-TJ OConnor. Grow Your Own Tools: A Taxonomy of Python Libraries Helpful for Forensic Analysis. In SANS Information Security Reading Room, October 2010. SANS. [[pdf]](https://sansorg.egnyte.com/dl/dhOPS42HNf)
+TJ OConnor. Grow Your Own Tools: A Taxonomy of Python Libraries Helpful for Forensic Analysis. In SANS Information Security Reading Room, October 2010. SANS. [[pdf]](pdf/sans10oconnor-F.pdf)
  
 ## Miscellaneous
  
