@@ -16,6 +16,8 @@ Maria Chaparro Osman, Maureen Namukasa, Cherrise Ficke, Isabella Piasecki, TJ OC
 
 ## Conferences And Workshops
 
+Logan Suarez, Dakhilallah Alshubrumi, TJ OConnor, Sneha Sudhakaran. Unsafe at any Bandwidth: Towards Understanding Risk Factors for Ransomware in Higher Education. Workshop on Data-Driven Security (DDWS 2024), Hasselt, Belgium, April 2024.[[bib]]()[[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/ddsw24suarez.pdf))
+
 TJ OConnor, Alex Schmith, Chris Stricklan, Marco Carvalho, Sneha Sudhakaran. Pwn Lessons Made Easy With Docker: Toward an Undergraduate Vulnerability Research Cybersecurity Class. Technical Symposium on Computer Science Education (SIGCSE TS 24), Portland, OR, March 2024. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/sigcse24oconnor.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/sigcse24oconnor.pdf)
 
 Curtice Gough, Carl Mann, Cherrise Ficke, Maureen Namukasa, Meredith Carroll, TJ OConnor. Remote Controlled Cyber: Toward Engaging and Educating a Diverse Cybersecurity Workforce. Technical Symposium on Computer Science Education (SIGCSE TS 24), Portland, OR, March 2024. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/sigcse24gough.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/sigcse24gough.pdf) 
