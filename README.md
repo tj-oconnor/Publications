@@ -10,13 +10,15 @@ Rehah Mohamed, TJ OConnor, Markus Miettinen, William Enck, and Ahmad-Reza Sadegh
 
 ## Journals
 
+Maureen Namukasa, Maria Chaparro Osman, Cherrise Ficke, Isabella Piasecki, TJ OConnor, Meredith Carroll. Evaluation of an Internet of Things Device-Based Educational Approach to Engage a More Diverse Cybersecurity Workforce. In International Journal of Human–Computer Interaction, Jan 2024.
+
 TJ OConnor, Dane Brown, Jasmine Jackson, Suzaan Schmeelk, Bryson Payne. Compete to Learn: Toward Cybersecurity As A Sport. In The Journal of Cybersecurity Education Research and Practice (JCERP), Kennesaw, GA, 2023. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/jcerp2023oconnor.bib) [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/jcerp2023oconnor.pdf)
 
 Maria Chaparro Osman, Maureen Namukasa, Cherrise Ficke, Isabella Piasecki, TJ OConnor, Meredith Carroll. Understanding how to diversify the cybersecurity workforce: A qualitative analysis. In The Journal of Cybersecurity Education Research and Practice (JCERP), Kennesaw, GA, 2023 [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/jcerp2023osman.bib) [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/jcerp2023osman.pdf)
 
 ## Conferences And Workshops
 
-Logan Suarez, Dakhilallah Alshubrumi, TJ OConnor, Sneha Sudhakaran. Unsafe at any Bandwidth: Towards Understanding Risk Factors for Ransomware in Higher Education. Workshop on Data-Driven Security (DDWS 2024), Hasselt, Belgium, April 2024.[[bib]]()[[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/ddsw24suarez.pdf))
+Logan Suarez, Dakhilallah Alshubrumi, TJ OConnor, Sneha Sudhakaran. Unsafe at any Bandwidth: Towards Understanding Risk Factors for Ransomware in Higher Education. Workshop on Data-Driven Security (DDWS 2024), Hasselt, Belgium, April 2024.[[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/ddsw24suarez.pdf)
 
 TJ OConnor, Alex Schmith, Chris Stricklan, Marco Carvalho, Sneha Sudhakaran. Pwn Lessons Made Easy With Docker: Toward an Undergraduate Vulnerability Research Cybersecurity Class. Technical Symposium on Computer Science Education (SIGCSE TS 24), Portland, OR, March 2024. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/sigcse24oconnor.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/sigcse24oconnor.pdf)
 
