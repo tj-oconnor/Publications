@@ -10,7 +10,7 @@
 
 ## Journals
 
-- Namukasa, M., Chaparro Osman, M., Ficke, C., Piasecki, I., O'Connor, T.J., Carroll, M. "Evaluation of an Internet of Things Device-Based Educational Approach to Engage a More Diverse Cybersecurity Workforce." *International Journal of Human–Computer Interaction*, January 2024. 
+- Namukasa, M., Chaparro Osman, M., Ficke, C., Piasecki, I., O'Connor, T.J., Carroll, M. "Evaluation of an Internet of Things Device-Based Educational Approach to Engage a More Diverse Cybersecurity Workforce." *International Journal of Human–Computer Interaction*, January 2024. [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/ihjhci24namukasa.pdf)
 
 - O'Connor, T.J., Brown, D., Jackson, J., Schmeelk, S., Payne, B. "Compete to Learn: Toward Cybersecurity As A Sport." *The Journal of Cybersecurity Education Research and Practice (JCERP)*, Kennesaw, GA, 2023. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/jcerp2023oconnor.bib) [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/jcerp2023oconnor.pdf)
 
