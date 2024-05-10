@@ -42,7 +42,7 @@
 
 - Campos, D., O'Connor, T.J. "Towards labeling on-demand IoT traffic." *Cyber Security Experimentation and Test (CSET 2021)*, Virtual Event, August 2021. USENIX. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/cset2021campos.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/raw/main/pdf/cset2021campos.pdf)
 
-- O'Connor, T.J., Jesse, D., Campos, D. "Through the spyglass: Toward IoT companion app man-in-the-middle attacks." *Cyber Security Experimentation and Test (CSET 2021)*, Virtual Event, August 2021. USENIX. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/cset2021oconnor.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/raw/main/pdf/cset2021oconnor.pdf)
+- O'Connor, T.J., Jessee, D., Campos, D. "Through the spyglass: Toward IoT companion app man-in-the-middle attacks." *Cyber Security Experimentation and Test (CSET 2021)*, Virtual Event, August 2021. USENIX. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/cset2021oconnor.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/cset2021oconnor.pdf)
 
 - O'Connor, T.J., Stricklan, C. "Teaching a hands-on mobile and wireless cybersecurity course." *Innovation and Technology in Computer Science Education (ITiCSE 2021)*, Virtual Event, June 2021. ACM. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/iticse2021oconnor.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/raw/main/pdf/iticse2021oconnor.pdf)
 
