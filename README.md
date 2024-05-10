@@ -38,7 +38,7 @@
 
 - O'Connor, T.J. "Helo darkside: Breaking free from katas and embracing the adversarial mindset in cybersecurity education." *Technical Symposium on Computer Science Education (SIGCSE TS 2022)*, Providence, RI, March 2022. ACM. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/sigcse2022oconnor.bib) [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/sigcse22-oconnor.pdf)
 
-- Alhazm, A., Kilani, G., Allen, W., O'Connor, T.J. "A replication study for IoT privacy preferences." *Conference on Omni-Layer Intelligent Systems (COINS 2021)*, Virtual Event, August 2021. IEEE. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/coins2021alhazmi.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/raw/main/pdf/coins2021alhazmi.pdf)
+- Alhazmi, A., Kilani, G., Allen, W., O'Connor, T.J. "A replication study for IoT privacy preferences." *Conference on Omni-Layer Intelligent Systems (COINS 2021)*, Virtual Event, August 2021. IEEE. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/coins2021alhazmi.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/raw/main/pdf/coins2021alhazmi.pdf)
 
 - Campos, D., O'Connor, T.J. "Towards labeling on-demand IoT traffic." *Cyber Security Experimentation and Test (CSET 2021)*, Virtual Event, August 2021. USENIX. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/cset2021campos.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/raw/main/pdf/cset2021campos.pdf)
 
