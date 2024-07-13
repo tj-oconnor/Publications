@@ -19,7 +19,7 @@
 ## Conferences and Workshops
 
 - Bessler, M., Sangster, P., Upadrashta, R., O'Connor, T.J., "Hardening the Internet of Things: Toward Designing Access
-Control For Resource Constrained IoT Devices." *Cyber Security Experimentation and Test (CSET 2024)*, Virtual Event, August 2024. USENIX. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/cset2024bessler.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/raw/main/pdf/cset2024bessler.pdf)
+Control For Resource Constrained IoT Devices." *Cyber Security Experimentation and Test (CSET 2024)*, Virtual Event, August 2024. USENIX. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/cset2024bessler.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/cset2024bessler.pdf)
 
 
 - Suarez, L., Alshubrumi, D., O'Connor, T.J., Sudhakaran, S. "Unsafe at any Bandwidth: Towards Understanding Risk Factors for Ransomware in Higher Education." *Workshop on Data-Driven Security (DDWS 2024)*, Hasselt, Belgium, April 2024. [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/ddsw24suarez.pdf)
