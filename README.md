@@ -18,6 +18,8 @@
 
 ## Conferences and Workshops
 
+- Namukasa, M., Regi,  A., Deloach, I., O'Connor, T.J., Dymanus, W., Carroll, M, "The Digital Divide: Implications for Training and Education" *Interservice/Industry Training, Simulation, and Education Conference (I/ITSEC 24)*, Orlando, December 2024. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/iitsec2024namukasa.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/iitsec2024namukasa.pdf)
+
 - Bessler, M., Sangster, P., Upadrashta, R., O'Connor, T.J., "Hardening the Internet of Things: Toward Designing Access
 Control For Resource Constrained IoT Devices." *Cyber Security Experimentation and Test (CSET 2024)*, Virtual Event, August 2024. USENIX. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/cset2024bessler.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/cset2024bessler.pdf)
 
