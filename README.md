@@ -21,7 +21,7 @@
 ## Conferences and Workshops
 
 - Stricklan, C., Curtis, C., Carranza, G., Blackwell, C., Abraham, L., O'Connor, T.J., "Preventative Exploitation of Computer Systems Using Binary Diversification" *International Conference on
-Electrical, Computer, and Energy Technologies (ICECET 2025)*, Paris, France, July 2025. [[bib]] (https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/icecet25stricklan.bib) 
+Electrical, Computer, and Energy Technologies (ICECET 2025)*, Paris, France, July 2025. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/icecet25stricklan.bib) 
 
 - More, S., Sudhakaran, S., O'Connor, T.J., Carvalho, M., "Comprehensive Security Assessment of Holy Stone Drones: Examining Attack Vectors" *20th International Conference on Cyber Warfare and Security (ICCWS 25)*, Williamsburg, VA, March 2025. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/iccws25more.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/iccws25more.pdf)
 
