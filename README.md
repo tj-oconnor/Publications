@@ -10,6 +10,8 @@
 
 ## Journals
 
+- Namukasa, M., Chauhan, B., Swords, B., Gough, C., Dymanus, W., Diresta, C., Vitali, J., Sharma, J., O'Connor, T.J., Carroll, M. "Diversifying Cybersecurity: Evaluation of an Internet of Things (IoT)-Based Cybersecurity Training Course Designed to Bridge the Diversity Gap" *Journal of Cybersecurity Education, Research and Practice*, 2025. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/jcerp2025namukasa.pdf) 
+
 - Namukasa, M., Chaparro Osman, M., Ficke, C., Piasecki, I., O'Connor, T.J., Carroll, M. "Evaluation of an Internet of Things Device-Based Educational Approach to Engage a More Diverse Cybersecurity Workforce." *International Journal of Human–Computer Interaction*, January 2024. [[bib]](https://github.com/tj-oconnor/Publications/raw/main/bib/ihjhci24namukasa.bib) [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/ihjhci24namukasa.pdf)
 
 - O'Connor, T.J., Brown, D., Jackson, J., Schmeelk, S., Payne, B. "Compete to Learn: Toward Cybersecurity As A Sport." *The Journal of Cybersecurity Education Research and Practice (JCERP)*, Kennesaw, GA, 2023. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/jcerp2023oconnor.bib) [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/jcerp2023oconnor.pdf)
@@ -17,6 +19,11 @@
 - Chaparro Osman, M., Namukasa, M., Ficke, C., Piasecki, I., O'Connor, T.J., Carroll, M. "Understanding how to diversify the cybersecurity workforce: A qualitative analysis." *The Journal of Cybersecurity Education Research and Practice (JCERP)*, Kennesaw, GA, 2023. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/jcerp2023osman.bib) [[pdf]](https://github.com/tj-oconnor/Publications/raw/main/pdf/jcerp2023osman.pdf)
 
 ## Conferences and Workshops
+
+- Stricklan, C., Curtis, C., Carranza, G., Blackwell, C., Abraham, L., O'Connor, T.J., "Preventative Exploitation of Computer Systems Using Binary Diversification" *International Conference on
+Electrical, Computer, and Energy Technologies (ICECET 2025)*, Paris, France, July 2025. [[bib]] (https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/icecet25stricklan.bib) 
+
+- More, S., Sudhakaran, S., O'Connor, T.J., Carvalho, M., "Comprehensive Security Assessment of Holy Stone Drones: Examining Attack Vectors" *20th International Conference on Cyber Warfare and Security (ICCWS 25)*, Williamsburg, VA, March 2025. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/iccws25more.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/iccws25more.pdf)
 
 - Namukasa, M., Regi,  A., Deloach, I., O'Connor, T.J., Dymanus, W., Carroll, M, "The Digital Divide: Implications for Training and Education" *Interservice/Industry Training, Simulation, and Education Conference (I/ITSEC 24)*, Orlando, December 2024. [[bib]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/bib/iitsec2024namukasa.bib) [[pdf]](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/iitsec2024namukasa.pdf)
 
